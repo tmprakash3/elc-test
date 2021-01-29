@@ -106,3 +106,9 @@ The data in the data.js file uses the following JSON Schema:
 * Please DELETE the node_modules folder prior to sending your code for review
 * Don't forget to include CSS/SCSS styling
 * If any additional commands  are necessary to run your code, please make sure this is documented
+
+
+
+It should have node 10.4.0
+npm 6.1.0
+gulp 3.9.0
